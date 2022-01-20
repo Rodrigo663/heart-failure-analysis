@@ -13,7 +13,7 @@ Visualizations are useful tools when it comes to making predictions. In this exa
 
 ## Does the cholesterol levels affect the Maximum Heart Rate?
 
-** As seen bellow it doesn´t!
+** As seen bellow it doesn´t! **
 
 ![This is an image](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/scatterplot.png)
 
