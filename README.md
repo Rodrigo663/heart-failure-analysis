@@ -9,19 +9,19 @@ Visualizations are useful tools when it comes to making predictions. In this exa
 - 65% of heart failure patients had a cholesterol higher than recommended (200 mm/dl).
 - The mean serum cholesterol is of 199 mm/dl.
 
-![This is an image](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/histplot.png)
+![histplot](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/histplot.png)
 
 ## Does the cholesterol levels affect the Maximum Heart Rate?
 
 **As seen bellow it doesn´t!**
 
-![This is an image](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/scatterplot.png)
+![scatterplot](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/scatterplot.png)
 
 ## How heart diseases affects variables such as Chest Pain Type and Exercise Angina?
 
-![This is an image](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/barplot.png)
+![barplot](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/barplot.png)
 
 
 ## Most common chest pain types
 
-![This is an image](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/piecharts.png)
+![piecharts](https://github.com/Rodrigo663/heart-failure-prediction/blob/main/figures/piecharts.png)
